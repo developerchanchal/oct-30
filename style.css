@@ -137,3 +137,10 @@ i {
     justify-content: space-around;
     border-top: 1px solid #e8e6e6;
 }
+
+
+@media all and (max-width:650px){
+    .container {
+        width: 100%;
+    }
+}
