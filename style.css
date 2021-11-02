@@ -142,4 +142,9 @@ i {
     .container {
         width: 100%;
     }
+    .footer-section {
+        position: sticky;
+        bottom: 0;
+        background: white;
+    }
 }
