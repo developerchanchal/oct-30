@@ -4,7 +4,7 @@
     font-family: 'Noto Sans', sans-serif;
 }
 .container {
-    width: 29%;
+    width: 25%;
     margin: auto;
     border: 1px solid grey;
     background-color: white;
@@ -38,7 +38,7 @@ i,b{
 .header-section p {
     font-size: 1.2rem;
     padding-bottom: .4rem;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid #d6d4d4;
 }
 .header-section p:before {
     content: "<";
