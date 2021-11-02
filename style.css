@@ -43,9 +43,9 @@ i,b{
 .header-section p:before {
     content: "<";
     position: relative;
-    left: -42%;
+    left: -40%;
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 1.7rem;
     color: grey;
     cursor: pointer;
 }
